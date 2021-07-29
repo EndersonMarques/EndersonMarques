@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndersonMarques&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&hide=issues,contribs,)](https://github.com/anuraghazra/github-readme-stats)
+ [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonMarques&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Find me
+
+<a href="https://linkedin.com/in/endersonmarques" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Enderson Marques LinkedIn Profile"/>
