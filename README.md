@@ -8,13 +8,13 @@
  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonMarques&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML&#47CSS%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/C&#47C++%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NodeJS%20-%23F7DF1E.svg?&style=for-the-badge&color=3C873A" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20HTML&#47CSS%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/%20React%20-%23F7DF1E.svg?&style=for-the-badge&color=61DBFB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20NodeJS%20-%23F7DF1E.svg?&style=for-the-badge&color=3C873A" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20Java%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
 ### Find me
