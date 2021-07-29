@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndersonMarques&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&hide=issues,contribs,)](https://github.com/anuraghazra/github-readme-stats)
- [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonMarques&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+*Third year Computer Engineering student at Federal University of Alagoas and aspiring Full Stack Developer.*
+
+### Passionate about programming and the power it has to make people's life easier and better.
+
+[![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndersonMarques&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonMarques&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Find me
