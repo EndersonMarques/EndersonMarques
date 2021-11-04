@@ -4,7 +4,7 @@
 
 ### Passionate about programming and the power it has to make people's life easier and better.
 
-[![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndersonMarques&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndersonMarques&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonMarques&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
