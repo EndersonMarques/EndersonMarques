@@ -1,13 +1,19 @@
 ### Hi there 👋
 
-*Third year Computer Engineering student at Federal University of Alagoas and aspiring Full Stack Developer.*
+*Third year Computer Engineering student at Federal University of Pernambuco and aspiring Full Stack Developer.*
 
 ### Passionate about programming and the power it has to make people's life easier and better.
 
-[![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndersonMarques&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
- [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonMarques&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<table cellpadding="0" style=" border-style: hidden;">
+  <tr>
+    <!-- GitHub Stats Card -->  
+    <td><img height="200" src="https://github-readme-stats.vercel.app/api?username=EndersonMarques&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonMarques&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
 
-<p align="center">
+<p align="center" class="stars">
 <img src="https://img.shields.io/badge/%20HTML&#47CSS%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/%20React%20-%23F7DF1E.svg?&style=for-the-badge&color=61DBFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/%20NodeJS%20-%23F7DF1E.svg?&style=for-the-badge&color=3C873A" />&nbsp;&nbsp;
